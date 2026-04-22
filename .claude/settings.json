@@ -1,0 +1,7 @@
+{
+"env": {
+"ANTHROPIC AUTH TOKEN":"sk-QqevXiYh2u7Y7iCAnDm7b2G1ms55bT4JE1PN8GQYrxbmYaXl",
+"ANTHROPIC BASE URL":"https://code.ddsst.online",
+"ANTHR0PIC SMALL FAST MODEL":"claude-3-5-haiku-20241022"
+  }
+}

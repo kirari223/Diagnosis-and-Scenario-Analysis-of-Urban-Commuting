@@ -1,0 +1,6 @@
+# 文件关系声明
+## 临时需求spec
+E:\00_Commute_Scenario_Research\spec\99_ad-hoc_requirements临时需求的描述文档放在该文件夹中，临时需求包含测试需求、重新跑结果检查正确性的需求等，对应在E:\00_Commute_Scenario_Research\tempt中调用函数执行，结果也放在E:\00_Commute_Scenario_Research\results\tempt中进行函数调用，临时需求的输出论文不会有引用
+即临时spec→tempt调用流程→结果存放到对应的tempt文件夹
+## 分支流程spec
+E:\00_Commute_Scenario_Research\spec\05_subpipeline_spec分支流程的描述文件放在该文件夹中，分支流程包含出主流程以外根据特定出图要求的流程，对应在E:\00_Commute_Scenario_Research\notebooks\sub_pipeline中进行函数调用以满足分支任务、不同于主流程步骤，或者已经具备中间结果而输入中间结果无需从头跑主流程的任务情况，可以理解为取主流程的片段流程运行。分支流程的notebooks中小标题的起名跟main_pipeline起名一致，分支流程的输出结果仍然是论文的主体结果，放在results文件对应的小标题之下。

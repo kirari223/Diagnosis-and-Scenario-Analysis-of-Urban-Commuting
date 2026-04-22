@@ -1,0 +1,23 @@
+[33mad19f7c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{Fri Apr 17 05:28:35 2026}: rebase (finish): returning to refs/heads/main
+[33mad19f7c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{Fri Apr 17 05:28:35 2026}: rebase (pick): before_0417
+[33m920cd34[m HEAD@{Fri Apr 17 05:28:35 2026}: rebase (start): checkout 0ef9a6981c6fee0607823330c0294b3907143b3e
+[33m2410b0b[m HEAD@{Fri Apr 17 05:27:07 2026}: rebase (finish): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 05:27:07 2026}: rebase (start): checkout 0ef9a6981c6fee0607823330c0294b3907143b3e
+[33m2410b0b[m HEAD@{Fri Apr 17 05:24:54 2026}: rebase (finish): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 05:24:54 2026}: rebase (start): checkout 920cd34dbbe2a74378a73c77a5c818caf2fb21c6
+[33m2410b0b[m HEAD@{Fri Apr 17 05:20:10 2026}: rebase (abort): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 05:20:10 2026}: rebase (abort): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 05:06:07 2026}: rebase (abort): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 05:06:07 2026}: rebase (abort): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 04:45:50 2026}: rebase (abort): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 04:45:50 2026}: rebase (abort): returning to refs/heads/main
+[33m2410b0b[m HEAD@{Fri Apr 17 04:18:27 2026}: checkout: moving from d152dc84bcf540631fd6ef140ca8d0e826358371 to main
+[33md152dc8[m HEAD@{Fri Apr 17 04:12:47 2026}: checkout: moving from main to d152dc84bcf540631fd6ef140ca8d0e826358371
+[33m2410b0b[m HEAD@{Fri Apr 17 04:08:23 2026}: commit: before_0417
+[33md152dc8[m HEAD@{Wed Apr 15 19:39:50 2026}: commit: scenario1_result_v1
+[33m920cd34[m HEAD@{Wed Apr 15 17:22:09 2026}: commit: scenario1_spec
+[33m0ef9a69[m HEAD@{Wed Apr 15 09:31:07 2026}: commit: v1_prob_to_int
+[33m1cfd2d6[m[33m ([m[1;33mtag: [m[1;33mprob_to_int_constrained[m[33m)[m HEAD@{Tue Apr 14 19:59:36 2026}: commit: static_comparison_stats
+[33m7c359af[m HEAD@{Sat Apr 4 15:59:35 2026}: commit: step clean
+[33m7bcf85c[m HEAD@{Sat Mar 28 19:32:43 2026}: Branch: renamed refs/heads/main to refs/heads/main
+[33m7bcf85c[m HEAD@{Sat Mar 28 19:32:35 2026}: commit (initial): first commit
